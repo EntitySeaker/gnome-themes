@@ -1,2 +1,3 @@
-# gnome-themes
-Gnome themes
+# Gnome Themes
+## Installation
+unzip in "/usr/share/themes/"
